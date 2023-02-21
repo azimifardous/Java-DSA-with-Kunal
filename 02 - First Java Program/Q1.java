@@ -10,6 +10,5 @@ public class Q1 {
         // Let's check this given number whether it's even or odd
         if (num % 2 == 0) System.out.println("The number is even.");
         else System.out.println("The number is odd.");
-
     }
 }
